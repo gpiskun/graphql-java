@@ -1,0 +1,2 @@
+Export-Package: graphql.*;version="3.0.0"
+-nouses=true
